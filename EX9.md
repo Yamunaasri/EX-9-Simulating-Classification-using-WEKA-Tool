@@ -1,5 +1,9 @@
 # EX 9: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 
+## Date: 17.10.2023
+```
+DEVELOPED BY: T S YAMUNAASRI
+REG NO: 212222240117
+```
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
